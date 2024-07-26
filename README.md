@@ -3,17 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavmehunkar&label=Profile%20views&color=0e75b6&style=flat" alt="pranavmehunkar" /> </p>
 
-<p align="left"> <a href="https://twitter.com/pranavmehunk20" target="blank"><img src="https://img.shields.io/twitter/follow/pranavmehunk20?logo=twitter&style=for-the-badge" alt="pranavmehunk20" /></a> </p>
-
 - 👯 I’m looking to collaborate on **on project which solves problem of many people around the globe.**
 
-- 📫 How to reach me **pmehunkar25@gmail.com**
+- 📫 How to reach me
+
+- [![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pmehunkar25@gmail.com)](mailto:pmehunkar25@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/pranavmehunk20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pranavmehunk20" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pranav-mehunkar-15a3a0283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav-mehunkar-15a3a0283" height="30" width="40" /></a>
-<a href="https://instagram.com/_.pranav._95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.pranav._95" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pranavmehunkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pranavmehunkar" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/pranavmehunkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pranavmehunkar" height="30" width="40" /></a>
 </p>
