@@ -7,7 +7,7 @@
 
 - 📫 How to reach me
 
-- [![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pmehunkar25@gmail.com)](mailto:pmehunkar25@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pmehunkar25@gmail.com)](mailto:pmehunkar25@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
