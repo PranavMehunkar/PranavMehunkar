@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranav</h1>
-<h3 align="center">A passionate AI & ML Engineer from India</h3>
+<h3 align="center">Open to Software Development & Web Application Roles</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavmehunkar&label=Profile%20views&color=0e75b6&style=flat" alt="pranavmehunkar" /> </p>
 
